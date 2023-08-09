@@ -1,0 +1,6 @@
+E:\my details\personal\c sharp\day 20\AssesmentLib\AssesmentLib\bin\Debug\AssesmentLib.dll
+E:\my details\personal\c sharp\day 20\AssesmentLib\AssesmentLib\bin\Debug\AssesmentLib.pdb
+E:\my details\personal\c sharp\day 20\AssesmentLib\AssesmentLib\obj\Debug\AssesmentLib.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\day 20\AssesmentLib\AssesmentLib\obj\Debug\AssesmentLib.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\day 20\AssesmentLib\AssesmentLib\obj\Debug\AssesmentLib.dll
+E:\my details\personal\c sharp\day 20\AssesmentLib\AssesmentLib\obj\Debug\AssesmentLib.pdb

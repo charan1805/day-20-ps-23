@@ -1,0 +1,11 @@
+E:\my details\personal\c sharp\day 20\Assesment 23\Assesment 23\bin\Debug\Assesment 23.exe.config
+E:\my details\personal\c sharp\day 20\Assesment 23\Assesment 23\bin\Debug\Assesment 23.exe
+E:\my details\personal\c sharp\day 20\Assesment 23\Assesment 23\bin\Debug\Assesment 23.pdb
+E:\my details\personal\c sharp\day 20\Assesment 23\Assesment 23\bin\Debug\AssesmentLib.dll
+E:\my details\personal\c sharp\day 20\Assesment 23\Assesment 23\bin\Debug\AssesmentLib.pdb
+E:\my details\personal\c sharp\day 20\Assesment 23\Assesment 23\obj\Debug\Assesment 23.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\day 20\Assesment 23\Assesment 23\obj\Debug\Assesment 23.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\day 20\Assesment 23\Assesment 23\obj\Debug\Assesment 23.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\day 20\Assesment 23\Assesment 23\obj\Debug\Assesment 23.csproj.CopyComplete
+E:\my details\personal\c sharp\day 20\Assesment 23\Assesment 23\obj\Debug\Assesment 23.exe
+E:\my details\personal\c sharp\day 20\Assesment 23\Assesment 23\obj\Debug\Assesment 23.pdb
